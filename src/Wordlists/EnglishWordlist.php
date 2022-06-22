@@ -8,7 +8,7 @@ class EnglishWordlist implements WordlistInterface
 
     public function __construct()
     {
-        $this->words = file(__DIR__ . '/../../resources/wordlists/english.txt', FILE_IGNORE_NEW_LINES);
+        $this->words = file(__DIR__ . '/../../data/wordlists/english.txt', FILE_IGNORE_NEW_LINES);
     }
 
     public function getWords(): array
