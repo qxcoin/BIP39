@@ -1,6 +1,6 @@
 <?php
 
-use Qxcoin\BIP39\BIP39;
+use QXCoin\BIP39\BIP39;
 
 require('../vendor/autoload.php');
 

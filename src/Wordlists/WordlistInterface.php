@@ -1,6 +1,6 @@
 <?php
 
-namespace Qxcoin\BIP39\Wordlists;
+namespace QXCoin\BIP39\Wordlists;
 
 interface WordlistInterface
 {

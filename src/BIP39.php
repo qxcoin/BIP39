@@ -1,9 +1,9 @@
 <?php
 
-namespace Qxcoin\BIP39;
+namespace QXCoin\BIP39;
 
-use Qxcoin\BIP39\Wordlists\WordlistInterface;
-use Qxcoin\BIP39\Wordlists\EnglishWordlist;
+use QXCoin\BIP39\Wordlists\WordlistInterface;
+use QXCoin\BIP39\Wordlists\EnglishWordlist;
 use InvalidArgumentException;
 
 final class BIP39
